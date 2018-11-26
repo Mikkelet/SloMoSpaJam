@@ -1,0 +1,11 @@
+Buzzer - start and end of a game
+Countdown - plays before starting buzzer
+Gandalf - plays when Gandalf is selected as the player character
+McGona - plays when McGonagall is selected as the player character
+Nazgul - plays when Nazgul is selected as the player character
+Sirius - plays when Sirius is selected as the player character
+Goal 01 - Team 1 scores
+Goal 02 - Team 2 scores
+Space Jam - plays during the game, normal speed
+Slow Jam - plays during the game, slow motion
+I can fly - plays during the main menu (if we have one)
